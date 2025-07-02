@@ -49,5 +49,7 @@ The Correlation analysis explores the relationship between numerical variables. 
 
 This analysis provides insights into sugarcane production across various countries and continents. It highlights the relationships between key factors, such as production by each country, acreage, and yield.
 
+## 📬 Connect With Me
 
-
+*Ajay | Data Analyst*  
+🔗 LinkedIn: [linkedin](https://www.linkedin.com/in/ajay-thakur-5158bb186/)
